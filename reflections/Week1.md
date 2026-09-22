@@ -30,3 +30,10 @@ Evolution- Present after the failure because the team had to make changes to sol
 Biggest failure was the lack of proper requirements at the start. the developer only had a short meeting with the IT director and then started designing the system.
 The Warehouse staff were not involved, even though they would be the people to use the software. This later caused problems because the system did not match how the 
 stock transfers occured. The second warehouse also caused problems as it was not in the requirements in the start. Project ended up being late, overbudget and rejected by warehouse staff.
+
+Task 3 - '## Researching a Software Failure'
+The Therac-25 was a computer controlled radiation therapy machine used to treat cancer patients between 1985 and 1987, several patients received massive radiation overdoses, resulting in serious injurys and deaths.
+Investigations found hat the accidents were caused by a combination of software problems, poor testing and weaknesses in the overall design of the software. The machine relied heavily on software for safety, while earlier versions had more hardware safety features. The investigation concluded that proper software engineering practices had not been followed.
+
+Task 4 Is there still a software crisis
+I think today there is still a version of the software crisis, Although software development has improved since the 1960's. Modern software is much more complexed and used in areas where failures can affect a large number of people. Projects can still go over budget, have bugs and fail to meet what users actually want from the software 
