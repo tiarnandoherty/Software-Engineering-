@@ -1,1 +1,2 @@
-This portfolio will contain weekly updates on what i will be doing in this module
+Task 1-
+Software is basically a set of instructions that tells a computer or another device what to do. Engineering adds more structure to the software development because it means thinking about how the software will be designed ,tested and maintained over time. One example of a software that i use that works well for me is google maps, clear instructions lots of places added and quick routes to them places. An example of software that has frustrated me is apple maps as sometimes it has led me to the wrong place or doesnt have some of the places google maps has developers can go through and add more places and correct the routes to improve the software.
